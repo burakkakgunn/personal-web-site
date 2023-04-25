@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Burak Akgün",
+    "description":"I am a software engineer with industry experience building different kinds of applications",
+    "image":"profilepic.jpg",
+    "bio":"I have a personality with strong leadership and a sense of business ownership. Also, I have an endless desire to learn and curiosity. Also, possess skills in writing complex SQL queries using popular database servers such as MySQL,PostgreSQL etc..",
+    "contactmessage":"For more information.",
+    "email": "brkakgunn@gmail.com",
+    "phone": "+90-531-556-8900",
+    "github":"https://github.com/burakkakgunn",
+    "linkedin":"https://www.linkedin.com/in/burakakgunn/",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Maltepe",
+      "city":"Istanbul",
+      "state":"Türkiye",
+      "zip": "34848"
+    },
+    "website": "http://www.burakakgun.net",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/burakkakgunn",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/burakakgunn/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/burakkakgunn",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/burakkakgunn",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Gebze Technical University",
+        "degree":"Bachelor's degree in Electronics Engineering",
+        "graduated":"August 2021",
+        "description":"Pyhton, Signal Processing, Microprocessors, C, C++."
+      },
+      {
+        "school":"University POLITEHNICA of Bucharest",
+        "degree":"Bachelor's degree in Electrical and Electronics Engineering",
+        "graduated":"June 2020",
+        "description":"Erasmus student exchange program. Signal Processing, Pyhton,"
+      }
+    ],
+    "work":[
+      {
+        "company":"Yapı Kredi Teknoloji",
+        "title":"Software Engineer",
+        "years":"January 2023 - Present",
+        "description":"Java 8, TypeScript(JavaScript), Spring/SpringBoot Framework, React Framework, Microservices, Microfrontends, JUnit, Mockito, Sonar."
+      },
+      {
+        "company":"Softtech",
+        "title":"Full Stack Developer",
+        "years":"March 2021 - January 2023",
+        "description":"Java 8/11, TypeScript, Spring/SpringBoot Framework, Microservices, Microfrontends, JUnit, Mockito, Sonar."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"Python",
+        "level":"10%"
+      },
+      {
+        "name":"CSS",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Solar Powered LoRa Based IOT Smart Agriculture Project",
+        "category":"IOT",
+        "image":"img.jpg",
+        "desc":"Long-Range Low-Power Wireless Sensor Network Based on LoRa Technology with User Interface.",
+        "url":"https://www.linkedin.com/in/burakakgunn/"
+      },
+      {
+        "title":"Atrial Fibrillation Classification Using Long-Short Term Memory Model",
+        "category":"Signal Processing",
+        "image":"./images/img.jpg",
+        "desc":"Atrial Fibrillation Classification Using Long-Short Term Memory Model with Python",
+        "url":"https://www.linkedin.com/in/burakakgunn/"
+      },
+      {
+        "title":"ECG Analysis and Filtering Noisy ECG",
+        "category":"Signal Processing",
+        "image":"./images/img.jpg",
+        "desc":"Filtering noisy signal from ecg and ecg analysis with Pyhton in different Libs.",
+        "url":"https://www.linkedin.com/in/burakakgunn/"
+      }
+    ]
+  }
+}
